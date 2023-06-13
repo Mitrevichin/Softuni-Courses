@@ -21,7 +21,6 @@ function graduation(input) {
         currGrade = Number(input[i]);
     }
 
-    
     avgGrade = sumGrades / 12;
     if (excluded < 2) {
         console.log(`${name} graduated. Average grade: ${avgGrade.toFixed(2)}`);
