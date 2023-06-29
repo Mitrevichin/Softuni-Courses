@@ -16,8 +16,8 @@ function sumSeconds (input) {
 
 }
 
-sumSeconds (["14", "12",
-"10"])
+sumSeconds (["12", "10",
+"9"])
 
 
 
